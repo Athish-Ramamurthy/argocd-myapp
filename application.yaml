@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/Athish-Ramamurthy/argocd-demo.git
+    repoURL: https://github.com/Athish-Ramamurthy/argocd-myapp.git
     targetRevision: HEAD
     path: dev
   
